@@ -14,4 +14,4 @@ Channels that represent edge cases or challenge categorization exist. These are 
 
 I will be adding more lists in the future and others are welcome to contribute.
 
-This list does not include channels that only make Youtube Shorts as I have those blocked. I may expand the list in the future to include those.
+This list does not include channels that only make Youtube Shorts as I currently use an extension that hides all Youtube shorts. I may expand the list to include those channels in the future.
