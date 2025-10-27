@@ -1,5 +1,9 @@
 Lists of Youtube channel IDs that are known or suspected of being AI-Slop and/or low-effort content. These lists can be used with browser extensions like Blocktube to hide them while browsing Youtube. The lists are created by subjective, individual, manual review and are organized by topic (i.e. military history, science-fiction, etc.).
 
+Current tally of the number of channels included in each list:
+* Military history and stories - 150+
+* Warhammer 70+
+
 These lists will likely become incomplete as new slop channels are created daily and it's possible non-slop channels may be listed due to error.
 
 Judgment as being slop is subjective but depends, to varying degree, on the following factors:
@@ -13,3 +17,7 @@ Judgment as being slop is subjective but depends, to varying degree, on the foll
 Channels that represent edge cases or challenge categorization exist. These are currently not included, though they are very rare. In the 150 military related channels included in the list, there were only 2-3 channels that were debatable and subsequently not included.  
 
 I will be adding more lists in the future and others are welcome to contribute.
+
+This list does not include channels that only make Youtube Shorts as I currently use an extension that hides all Youtube shorts. I may expand the list to include those channels in the future.
+
+For a more detailed expanation how to set this up, please see [the howto guide](Howto.md).
