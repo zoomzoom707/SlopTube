@@ -1,4 +1,4 @@
-##Example of how I use these lists with [Blocktube](https://chromewebstore.google.com/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai?hl=en-US).
+# Example of how I use these lists with [Blocktube](https://chromewebstore.google.com/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai?hl=en-US).
 
 ## 1. Install the extension and open Blocktube's options:
 
