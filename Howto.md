@@ -7,8 +7,8 @@
 
 
 
-##2. Click on the Channel ID list, copy and paste the lists of your choice into the text field and press Save.
+## 2. Click on the Channel ID list, copy and paste the lists of your choice into the text field and press Save.
 
 <img width="1158" height="1275" alt="step 2" src="https://github.com/user-attachments/assets/f268f439-638c-4c91-8c56-1b0f9eb45758" />
 
-3. Enjoy
+## 3. Enjoy
