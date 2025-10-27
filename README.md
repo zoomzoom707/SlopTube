@@ -13,3 +13,5 @@ Judgment as being slop is subjective but depends, to varying degree, on the foll
 Channels that represent edge cases or challenge categorization exist. These are currently not included, though they are very rare. In the 150 military related channels included in the list, there were only 2-3 channels that were debatable and subsequently not included.  
 
 I will be adding more lists in the future and others are welcome to contribute.
+
+This list does not include channels that only make Youtube Shorts as I have those blocked. I may expand the list in the future to include those.
