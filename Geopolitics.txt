@@ -1,5 +1,5 @@
 // Geopolitics START
-// Suspected AI slop and low effort channels related to Geopolitics, economics, global trade, economics, global trade, etc.
+// Suspected AI slop and low effort channels related to Geopolitics, economics, global trade, finance, global trade, etc.
 
 
 // BEC Finance
@@ -10,6 +10,12 @@ UC94T6Rv4cI3_t0FiWCoUYkA
 
 // Investing Secrets
 UCO2VuzxJI38AHfkbhAGodXA
+
+// Geopolitics Research
+UCfzUDwAi-RYS2jYTpvDmFRA
+
+// The Global Strategist
+UCFQC9AJQxaozuEaYCWYHBtw
 
 
 // Geopolitics END
