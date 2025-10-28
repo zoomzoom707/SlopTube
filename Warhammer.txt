@@ -1,148 +1,219 @@
-//WARHAMMER
-//This is a list of Youtube channel IDs for known or suspected AI slop and low-effort channels that are partly or wholely related to Warhammer.
-//This list may be incomplete and/or contain errors. New AI slop channels are created daily and non-slop channels may have be erroneously included.
+// WARHAMMER
+// Suspected AI slop and low effort channels related to Warhammer lore, minatures, games, etc.
 
-//@StoriesOfTheImperium
+
+// @StoriesOfTheImperium
 UCd0bpDPneRPLHeZXh8Jxxpg
-//@ImperialIterator
+
+// @ImperialIterator
 UCWf1CrEX3Pf4co0GbXKRe3w
-//@ImperiumArchive
+
+// @ImperiumArchive
 UCQ-LlDDuorkpU55mEQ-0ouw
-//@Warhammerole
+
+// @Warhammerole
 UCtMbzPGABNvnU-0dRSGLM9A
-//@Imperiumarchives001
+
+// @Imperiumarchives001
 UCgswabBzP6E1dic5j6gLrcQ
-//@AdeptusArchives
+
+// @AdeptusArchives
 UCg6I-4OcRv-gaOpk5lmSmBA
-//@40KArchive
+
+// @40KArchive
 UCKqWjaLbrslG7OETpF4xxBg
-//@GrimdarkShards
+
+// @GrimdarkShards
 UCHW1NCHqMbDxqJx0ej5LDDg
-//@WarhammerTheorist
+
+// @WarhammerTheorist
 UCSNhkKZOQrmouGA-EO15hew
-//@ImperiumObscura
+
+// @ImperiumObscura
 UCUe9RMnV0IMkSv42c23u1UQ
-//@Scholarslore
+
+// @Scholarslore
 UCHCMymfxe1gU4Ph9QEo_yww
-//@StoriesbyImperium
+
+// @StoriesbyImperium
 UCboIU7U2lC5vgRz3Hc_hx2A
-//@TheImperiumHistoritor
+
+// @TheImperiumHistoritor
 UC4kFiiu-P8uy2Yizz905SLw
-//@TalesOfTheEmperium
+
+// @TalesOfTheEmperium
 UCHoMdBnOoLLrnCkqzEUTUMg
-//@WarpstormChronicles
+
+// @WarpstormChronicles
 UC64ETxmddUafQbDb2aggw0g
-//@Warpborne
+
+// @Warpborne
 UCiEyDCShwiE--mx6XJNPBLA
-//@warp.whisperers
+
+// @warp.whisperers
 UCj2Wg3DiaRD9iMwg0I7AVXg
-//@TalesoftheDamned-01
+
+// @TalesoftheDamned-01
 UCwou-D8TgTIFLR2x_0XQ9OA
-//@LegendsoftheImperium
+
+// @LegendsoftheImperium
 UCi5euMKjohawBODj8yiWJ-A
-//@GrimdarkEchoes-s9d
+
+// @GrimdarkEchoes-s9d
 UC8j788f-5qz9YGwMpexAXIA
-//@lordwarhammer40k
+
+// @lordwarhammer40k
 UC9yXkUdhr0GoYOyv4_GpLMQ
-//@WratHammer-yt
+
+// @WratHammer-yt
 UC77E8t99VNlLWdxhyQTdRkA
-//@TalesFromTheVoid-WH
+
+// @TalesFromTheVoid-WH
 UC0mtW3_99gYfTOSX-HWdLZA
-//@WarhammerLoreVault
+
+// @WarhammerLoreVault
 UC6ImgXtnJEA1YivrMjlvCGQ
-//@Imperial_Truths
+
+// @Imperial_Truths
 UCBMYeEx-fraBMKv7l8pLkLw
-//@ImperiumHistory-12
+
+// @ImperiumHistory-12
 UCBEbeNrJ9IkQ32oUShRRiRQ
-//@ForbiddenFaiths
+
+// @ForbiddenFaiths
 UCBqJMx0Nk1RMwIER3xluB8Q
-//@thesilentwar6
+
+// @thesilentwar6
 UCWVKs2MfiRFqmBI0auK2Bkg
-//@fromtheimperium
+
+// @fromtheimperium
 UCYUwe41KQePt5F710revU0Q
-//@LoreveilArchives
+
+// @LoreveilArchives
 UCcpdjodmwjn9O8dL-KKO4aA
-//@LOREHAVEN-j7h
+
+// @LOREHAVEN-j7h
 UCSYqlRx2h0ivkeOFwv6UnyQ
-//@ChroniclesoftheWarp1
+
+// @ChroniclesoftheWarp1
 UCHZhGrOAiD4u2vXTw9uuKfw
-//@TaleofTheWarp
+
+// @TaleofTheWarp
 UCFmm-V9AePadAlXb-cLRPlQ
-//@Fablesof40K
+
+// @Fablesof40K
 UCf6hTvFQzSPwSbBd_zyn0sA
+
 //EchoesoftheImperiumofficial1
 UCNx-tOR12syJKuRcDPbK2XQ
-//@thetalesofImperium
+
+// @thetalesofImperium
 UCLVXhj3jnFjohgZlCKPJdlA
-//@EchoesOfTheImperium9
+
+// @EchoesOfTheImperium9
 UCd5hcYH_MhyE-OPVJWPR-Sg
-//@multiverselorecast
+
+// @multiverselorecast
 UC7vph9L5IqZuK58U4EzUE8A
-//@WarhammerRealms
+
+// @WarhammerRealms
 UCI8mPttOIOJ2XlT5LVfSI2g
-//@TheWarpWhisperer-n1r
+
+// @TheWarpWhisperer-n1r
 UCF_5TfpLk7_HoFD9Xs34OfQ
-//@theStoriesOfTheImperium
+
+// @theStoriesOfTheImperium
 UCcxcgVsaMhFELqLjzA1bcjA
-//@Eternal40KLore
+
+// @Eternal40KLore
 UCNnDzqbPyUGCLQjJq7q2WTg
-//@GamesUntoldStories
+
+// @GamesUntoldStories
 UCXXCCU-hf_aweC-w2gqqksQ
-//@WarpStorm_7
+
+// @WarpStorm_7
 UCSBT3s-mbM8u3ggCXTVngZA
-//@TheEmperorsEcho
+
+// @TheEmperorsEcho
 UCjIM7JdtXTjQM3HZ4xWF3RA
-//@RiseThroughHistory
+
+// @RiseThroughHistory
 UCbKWe0IEua7vvGd-h_LgRBQ
-//@ChroniclesofImperiumofficial
+
+// @ChroniclesofImperiumofficial
 UCwobmUdxwEG0denxmVd-bvA
-//@imperium40kstories
+
+// @imperium40kstories
 UCA1sTHw8ZDBkD2rr9G3QvcA
-//@ImperialWarhammer40k
+
+// @ImperialWarhammer40k
 UCw7wpUV6OmgGRCN_pjgCIfw
-//@Warhammer_Stories
+
+// @Warhammer_Stories
 UCNDhntLeV9E_EJAlOtMyckQ
-//@StorisOfTheEndlessWar
+
+// @StorisOfTheEndlessWar
 UC7gzNr7u97gRflf5h5x_9Lg
-//@TheWatchersCall
+
+// @TheWatchersCall
 UCGrxnTnzRCoU3AtHTmPMYsA
-//@GRIMDARK40000
+
+// @GRIMDARK40000
 UCBV3zqQ7aeZb9w8J_j2Ky1A
-//@TheGoldenThrone-1
+
+// @TheGoldenThrone-1
 UCUEuS85HR_UhdsaHTeztrAQ
-//@LoreboundWhispers
+
+// @LoreboundWhispers
 UC_OJFF2aby9uohMNV8uy4Nw
-//@StoriesOfThepack
+
+// @StoriesOfThepack
 UCcV4p1Wn61kq_onguUMzzCg
-//@Storiesoftheempires
+
+// @Storiesoftheempires
 UCb4E3zQyY64Y2sDg77d0hXA
-//@TheEmperorsVoiceYT
+
+// @TheEmperorsVoiceYT
 UC3C9zU9mFyG68vbOPoAo6gA
-//@ImperiumStoriesWH40K
+
+// @ImperiumStoriesWH40K
 UCRH8ynuHwWlf4Iq4V7CwNCQ
-//@chaosremembrancer
+
+// @chaosremembrancer
 UCrGBpAvFD5UXUgtJhz1mz-A
-//@WhisperstheWarp
+
+// @WhisperstheWarp
 UCCQEtZiIH4DQ3pWEtnDwLwA
-//@talesoftheimperiums
+
+// @talesoftheimperiums
 UCAgXFYkNIhnNDo4TxIFbxfQ
-//@Lorehammer-t5p
+
+// @Lorehammer-t5p
 UCxCsMjNFR7okJ4vXJPrUj6w
-//@LibraryOfTheImperium
+
+// @LibraryOfTheImperium
 UCR6AscFfZ0ROt2sO9rFRQdA
-//@Lorehammer-t5p
+
+// @Lorehammer-t5p
 UCxCsMjNFR7okJ4vXJPrUj6w
-//@Thronebound40K
+
+// @Thronebound40K
 UCD-lH_PASMnnVM4jWvvWOHA
-//@eternalshards
+
+// @eternalshards
 UCUJWq8KwU3MlAjp1l8Em2Gg
-//@GraveHollow40K
+
+// @GraveHollow40K
 UCvaxiBaRzhcrSV7eZLElLXw
-//@WarpborneCodex
+
+// @WarpborneCodex
 UCeReBLbSiyuBi1WbaQIxTuw
-//@TerrorsOfTheImperium
+
+// @TerrorsOfTheImperium
 UCAVgEjbDY9M6LORyBbbQc3g
-//@storiesofimperum
+
+// @storiesofimperum
 UCwl9FWfrdylzR9gnALxomtg
-//@Vault-of-terra
+
+// @Vault-of-terra
 UC2qPtL5_V0vtS3U3BWuy1TA

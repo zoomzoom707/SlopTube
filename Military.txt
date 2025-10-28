@@ -1,318 +1,474 @@
-//Military
-//This is a list of Youtube channel IDs for known or suspected AI slop and low-effort channels that are partly or wholely related to military history, military equipment, etc.
-//This list may be incomplete and/or contain errors. New AI slop channels are created daily and non-slop channels may have be erroneously included.
+// MILITARY
+// Suspected AI slop and low effort channels related to military history, theory, stories, equipment, etc.
 
-//@Ww2TrueStoriess
+
+// @Ww2TrueStoriess
 UCNerM_PoMS_Vf8ikUFcUfjQ
-//@TheWW2Filess
+
+// @TheWW2Filess
 UCiXqb4Q4XbsuPfW9DT2-Lpg
-//@WW2Stories1
+
+// @WW2Stories1
 UCgQ_6_wGdD2jHEtIuEe6XLA
-//@WW2SagaXZ
+
+// @WW2SagaXZ
 UCFlbSiylhiyp5bJzFylgZ-w
-//@WW2EdgeStories
+
+// @WW2EdgeStories
 UCYbO-ExoBQ1TZ2N0-PwyXOg
-//@WorldWar2Storiess
+
+// @WorldWar2Storiess
 UCDJAH7U9vWwt3zNk_f3dRyQ
-//@ForgottenFrontlines-z6c
+
+// @ForgottenFrontlines-z6c
 UCU-_BXQiRTkY-b2ky-Dc2Qg
-//@Thisisithistory
+
+// @Thisisithistory
 UCOMtvP3uvDYyRiUJpMb1hZg
-//@WW2CombatZone
+
+// @WW2CombatZone
 UCZ6dYi7q43ffbPpvXZ6Uwwg
-//@WWII-History-Files
+
+// @WWII-History-Files
 UCCiswto5MdQTTmZP6APAAzA
-//@HistoryTheyNeverTold2109
+
+// @HistoryTheyNeverTold2109
 UCkts3Cmw-oH4E_gt5VsfXiw
-//@Legacy-Taless
+
+// @Legacy-Taless
 UCZNEclPt8ZexdEgFO0FFQpw
-//@WW2Explained-o8e
+
+// @WW2Explained-o8e
 UCeYlFSht0Vnhczgl6M6JcmQ
-//@UntoldWW2story
+
+// @UntoldWW2story
 UCWc8TqQlvWsGk1WgKbV4O2g
-//@EpicEverywheree
+
+// @EpicEverywheree
 UCk5awqRhxSwkTgs2nzWdBGA
-//@soldierwords-ww2
+
+// @soldierwords-ww2
 UCx5_IJujxAoyUHa0W1Xq4ng
+
 //WW2TheForgottenStories
 UCmgvsAWLEF_c1ANfMO5A5VA
+
 //HiddentruthsHistory
 UCu86DW2zmNFXQCKqCekX_9Q
-//@ClassifiedWar
+
+// @ClassifiedWar
 UCbTCC2vXFPD4gm0_8Ts9N4Q
-//@BeyondTheFrontlineWW2
+
+// @BeyondTheFrontlineWW2
 UCo_ZvIqAy9nvDwA3vxXy6Iw
-//@BlackWhiteAmerica
+
+// @BlackWhiteAmerica
 UChFDB42I8bgUvcRtlYVhc3A
-//@WW2CHRONICLES-m1m
+
+// @WW2CHRONICLES-m1m
 UCsKn9zheK0Vy-wdtudgtJxQ
-//@MajestyHistory
+
+// @MajestyHistory
 UCmZhJIe0voLkp3X6UCtttew
-//@TheLostCampaigns
+
+// @TheLostCampaigns
 UCTPG6rn7E0HdS07IZcZUVdw
+
 //HistoryThatInspires-v5d
 UCGeuTXdhhGaXQgWCxrx5umQ
-//@CombatFeed-m3u
+
+// @CombatFeed-m3u
 UCC4CBIp-0T6W9_2FbzhMktw
+
 //WW2_Reborn
 UCyVBMU0Gxp7UvdTkzxWWKow
+
 //CaptaleAi
 UCBTgjI9ySQzX1UsCHf7I6vg
-//@WhispersTruths-p2t
+
+// @WhispersTruths-p2t
 UCo5sXBW8aUT0iVz9MNJVQjQ
-//@FactVerse4K
+
+// @FactVerse4K
 UCt23RGV9DUeJktWZo6QRyrA
-//@thedarkfrontline
+
+// @thedarkfrontline
 UCj4-hmdpAdo0d66w3UE6FZg
-//@NeoLogicAI
+
+// @NeoLogicAI
 UCbdQonTv_W7CvkZyPYXVm4g
-//@echoesofwartales1
+
+// @echoesofwartales1
 UCXjATkXzV5etrAlQByUR-Lw
-//@EchoesOfTime253
+
+// @EchoesOfTime253
 UCaFpEknXrDuBoS9kseSrqTw
-//@Aihistoryvideos1
+
+// @Aihistoryvideos1
 UC46NCrQQbqJjHAoyPl0om6A
-//@world-war-2tales
+
+// @world-war-2tales
 UCYMqPBDZ8QknPdn4kW6IXXg
-//@LastWarHeroes
+
+// @LastWarHeroes
 UCmje4Xo9-NAT5Xjp2vFF8Tg
-//@ShortStoriesForTheWorld
+
+// @ShortStoriesForTheWorld
 UCQio5OgGVpJEVcvzofgxP9g
-//@WhispersBeneath-i7r
+
+// @WhispersBeneath-i7r
 UCpVvTxuqpGGbWu5ZZ4KykJQ
-//@ArcofAI
+
+// @ArcofAI
 UCgrNdXZG6tnVlY7AKWyRd7g
-//@Battlefront-tv1
+
+// @Battlefront-tv1
 UCQCnGCtOihrDrD2k4ZrKRDA
-//@mauri_marttinez_english
+
+// @mauri_marttinez_english
 UCAJ1Z1FAMv89z2QrSg07F6w
-//@1FrontlineChronicles
+
+// @1FrontlineChronicles
 UCV1liHwJ1PshQnC0BeBtcpw
-//@moneycrafters831
+
+// @moneycrafters831
 UCXH4sGTAxynmgUshfNIzu5w
-//@Trenchfront
+
+// @Trenchfront
 UCPf81Ru5r4xyRJyPMFaG_LQ
-//@worldwarIIchronicles
+
+// @worldwarIIchronicles
 UC1DSY6E5rmhP5Tp-f1lPh2g
-//@BehindtheAnnals
+
+// @BehindtheAnnals
 UCqNm40k91kEk5PqqyLbCCLQ
-//@WarChroniclesHQ-j9r
+
+// @WarChroniclesHQ-j9r
 UCK52Rof6-pYlK7lOuo8HyOw
-//@Dust_Script-n7c
+
+// @Dust_Script-n7c
 UCKR8feZJZD--gMUpP4tXf5A
-//@JonneyBrother
+
+// @JonneyBrother
 UCSotPWBX3wIc9j-mQB5gu5Q
-//@chdstories
+
+// @chdstories
 UCUJCgfi6_wGyAXAn7RbdkLw
-//@HistoryInUniform001
+
+// @HistoryInUniform001
 UCa_LvFGJPgTCo6q7DhB7MsQ
-//@Crayzee_Stories
+
+// @Crayzee_Stories
 UCFt8wB6DPuDbL7XQDG8eKZA
-//@SaveHistoryOfficial
+
+// @SaveHistoryOfficial
 UCJEIK-0morAtTSY8LA-vd2w
-//@EchoesofWW2Stories
+
+// @EchoesofWW2Stories
 UCnxcrhnkg4XlNXkyGbREOrw
-//@WW2Reels
+
+// @WW2Reels
 UCl9Zem7_2T68UhVz9lWpZdw
-//@FunZoneJokes
+
+// @FunZoneJokes
 UCCJTaeDTazluBe_8M8bDEIg
-//@VWHEM
+
+// @VWHEM
 UCEDzxB2XPOErQQSDwL97gFw
-//@WW2RealStories-i3d
+
+// @WW2RealStories-i3d
 UCt20Eu6xqhauOzGyALrWwiQ
-//@ZUMMARKUntold
+
+// @ZUMMARKUntold
 UCA9DBh60rT8mBTQB3mE6Uyg
-//@PagesofthePastOfficial
+
+// @PagesofthePastOfficial
 UC-opJaBRXwiOUO7SsWJVb4A
-//@RewindAI_Official
+
+// @RewindAI_Official
 UCyYRcOBbYVDzoC8729Fcn9g
-//@ObsidianStories01
+
+// @ObsidianStories01
 UC54zimYbwlv1TBjQ7m5Qq6w
-//@SilentSoulsStories
+
+// @SilentSoulsStories
 UCbAoKHiGOKuzX9IcPPFP2EA
-//@OneObjectThousandStories
+
+// @OneObjectThousandStories
 UCnEnW8fjKhRhmL3ezi7ZPpg
-//@ww2_Stories2
+
+// @ww2_Stories2
 UCetD888MPuR17EEbb2oI8GQ
-//@TheWW2Historian
+
+// @TheWW2Historian
 UC_udDSxIM4tvlK9s77Hl1Bw
-//@WORLDSWAR2DIARIES
+
+// @WORLDSWAR2DIARIES
 UCRTFpaJPVoMHsNvwE1t9CSQ
-//@TheHistoryLens-r4k
+
+// @TheHistoryLens-r4k
 UCgnBI_IEnNVA1IhBBRagfyw
-//@ViralyzeHistory-c6c
+
+// @ViralyzeHistory-c6c
 UCbCp1edtcOOa7uweZuG3pAQ
-//@WorldRecap7
+
+// @WorldRecap7
 UCqkAviZNKu6VIMmKTWGcrZg
-//@UntoldWarArchives
+
+// @UntoldWarArchives
 UC6JMkTezp7k1EyA3BWL5YXw
-//@WWIIRisingStories
+
+// @WWIIRisingStories
 UCk1LxGFaui8oI7_ia0OK9KQ
-//@DailyStoriesYT
+
+// @DailyStoriesYT
 UCYUhRibke_oFVKGhIYgGI0w
-//@mishelmarun5337
+
+// @mishelmarun5337
 UC49b6zTNlIX78BzsBW9UTng
-//@War2Tales
+
+// @War2Tales
 UCZP1OYnFfw-7H74UOwGFaiQ
-//@FrozenFrontTales1939
+
+// @FrozenFrontTales1939
 UCsUkzpe_Roj2embleZ-pwRg
-//@WarUntold1
+
+// @WarUntold1
 UCJtpXA_pIg4TuOAhSZEejmg
-//@ColdWarrChronicles
+
+// @ColdWarrChronicles
 UC5IFtliANhDZhFqAhvVFjuQ
-//@AcrossHistory1
+
+// @AcrossHistory1
 UCUYKevkVsupRRwCoKDvrOOQ
-//@WW2UnfoldedHistory1
+
+// @WW2UnfoldedHistory1
 UCvWJjuXHoDoxaqFQ-C6YqGQ
-//@untoldpowstories
+
+// @untoldpowstories
 UC4LxLWQ0jmMIJgsLRG2OdWQ
-//@IronMindsofWar
+
+// @IronMindsofWar
 UCexLUWOxTh7f9Ls1PhyLxXA
-//@TheWWIIChronicles
+
+// @TheWWIIChronicles
 UCeVpYnQpCw-H3ypauyXhzmA
-//@WW2Enthusiasts
+
+// @WW2Enthusiasts
 UCd2GFUf0A8VugFX1JJus-Jw
-//@WarEcho0
+
+// @WarEcho0
 UCsS-H4Zck1pFFg3_Vvg7evw
-//@TheSoldiersStory
+
+// @TheSoldiersStory
 UC9vdYXmEgJB8QSlxYNqIkwg
-//@Ashes-History
+
+// @Ashes-History
 UCuxRcBOncOB0j0wT8cZeVJA
-//@WW2RelicsExplained
+
+// @WW2RelicsExplained
 UCNHcAXq8B3G2LQdd1_t3dYg
-//@WW2Tales
+
+// @WW2Tales
 UCVDS-cjZZIWPjL5fdXSMywQ
-//@ForgottenStoriesArchive12
+
+// @ForgottenStoriesArchive12
 UCage-iCMyfD18h9inlU2gtg
-//@EchoesofWWII1
+
+// @EchoesofWWII1
 UC4aRVAgg-5ZI5U62Gq4D75g
-//@WW2Secrets
+
+// @WW2Secrets
 UCFzS_9BjeWAJJfQukzoGOOg
-//@WW2DeepFiles
+
+// @WW2DeepFiles
 UCpcFH5YR71r5GVWZwhvY_Fw
-//@BritWarTales
+
+// @BritWarTales
 UCRpM2gaCd8_hNm1QXgLB4qA
-//@TheSecondWar-o5z
+
+// @TheSecondWar-o5z
 UCW_kTczjsBWX-au-LQUP5Bw
-//@WW2Inferno
+
+// @WW2Inferno
 UCi-9N5FZvNXEq0CNfvWihfQ
-//@EuropeanFront
+
+// @EuropeanFront
 UCZ8kV9h04FvKFxJUlyDaEJg
-//@HiddenVlrStories
+
+// @HiddenVlrStories
 UCH37qJB_Xn9JhjbwsZYmgXQ
-//@EverydayLifeStories-z9b
+
+// @EverydayLifeStories-z9b
 UCOeof2D947aqciux2Ux59pA
-//@FrontlineHistory-h6b
+
+// @FrontlineHistory-h6b
 UCjtajyUcFjOmUWJuog2ZIZw
-//@IRONECHO-r6d
+
+// @IRONECHO-r6d
 UCWabGZT-6ogkNFpFpF24MrQ
-//@WW2Discoverys
+
+// @WW2Discoverys
 UCf4ebQSp-iwQVGDDkUuSMsA
-//@HeartlandHonor
+
+// @HeartlandHonor
 UC3PjdKGsojwiCzNtZ9GfeqQ
-//@StoriesUnseenYT
+
+// @StoriesUnseenYT
 UCvfTGsxhEqrQ0YHE6IUDszw
-//@SilentValorStories
+
+// @SilentValorStories
 UCFslixjN5cJmarZFyWD-uqA
-//@MilitaryVeteranStories
+
+// @MilitaryVeteranStories
 UC7jCi5E32Tgl7gUZ93x8RGg
-//@Silent_Ranks
+
+// @Silent_Ranks
 UC-erK-li75797UMRgeX1Kkw
-//@HerMissionStories7
+
+// @HerMissionStories7
 UC5mQRWyFOu75E6CwSnzozMQ
-//@HerMissionChronicles
+
+// @HerMissionChronicles
 UCZZAYyrtJeiMQpUlCru4vyw
-//@OldGloryStories
+
+// @OldGloryStories
 UCwY1GdGhNbAV9EnmmKt7zXw
-//@HerMissionStories
+
+// @HerMissionStories
 UCI7YBoWWwbkHy_oMuBmiEdg
-//@HerMissionSaga
+
+// @HerMissionSaga
 UC_diJwjPINBs03Sn0b2MiZA
-//@Hercaptainmission134
+
+// @Hercaptainmission134
 UCe0Kd0vodwhLPEA7npXWJHw
-//@VeteransVoiceYT
+
+// @VeteransVoiceYT
 UCmZ1iM69SWdpo1rVsdLxWDQ
-//@VoicesofHerMission
+
+// @VoicesofHerMission
 UCLSnUatQACI9_2-Fi3gCGFg
-//@LegendsoffHistory
+
+// @LegendsoffHistory
 UCz131ILHk18eL1W4vyagqeA
-//@GirlsMissionStories
+
+// @GirlsMissionStories
 UCCV2fTklabh27964emyn3hg
-//@HeroStoriesx
+
+// @HeroStoriesx
 UCVb_kbwDl5P3C26LppkVZ4g
-//@HistoryCommand
+
+// @HistoryCommand
 UCZgnwdWNSClpnlceolBQO9Q
-//@TheColdWarTales
+
+// @TheColdWarTales
 UCMfKbuxiOVxFIdIpWdTi4og
-//@LNSteelHeartStories
+
+// @LNSteelHeartStories
 UCT-hlUIl3-kT5iUXHUYXl9g
-//@TacticalRosestories52
+
+// @TacticalRosestories52
 UCBkBaJcGDlL6YDxXUX4tUlg
-//@Hfydaily
+
+// @Hfydaily
 UCUZjckwBsisH3nwYa0NjKJg
-//@HerCombatStories
+
+// @HerCombatStories
 UCnhN8UBiLqO1qd5rFpKD1SQ
-//@KARMATales_TV
+
+// @KARMATales_TV
 UCPOMDoXzo-OYalEeNl02PrA
-//@Militarykin
+
+// @Militarykin
 UCJVcwwPl9Xp516HDzrMoOJw
-//@MiniStories-i2t
+
+// @MiniStories-i2t
 UCvZTshJpIV5ng47kDvJLfmQ
-//@afterthewars
+
+// @afterthewars
 UC3lDmfYKHlAKcLUjmotWIWg
-//@HiddenValorChronicles
+
+// @HiddenValorChronicles
 UCz8OZEq-2cEvxKIw6HUxyuw
-//@WildWestTales-z3x
+
+// @WildWestTales-z3x
 UCCSvjh7vH8lUpiTxoef5t2A
-//@UcheChukwuStories
+
+// @UcheChukwuStories
 UCe-_kXPqH1B14-qTwn5P93w
-//@MoralStoryHub-p2u
+
+// @MoralStoryHub-p2u
 UC-TMbZagebmmP_sgvJV4gGA
-//@sweetyrevenge
+
+// @sweetyrevenge
 UCXAIiEFNusqGGpOBw6sMA2Q
-//@BlackStories-tv
+
+// @BlackStories-tv
 UC9VbKi2VILW3Py4VyfzCecQ
-//@EchoStoriesUS
+
+// @EchoStoriesUS
 UCRKv7TgAkRAXBT9xXW6jdCQ
-//@FictionalReimagined
+
+// @FictionalReimagined
 UC1b0u2eZBzSgOm6SjFbp2Xw
-//@Z.Sci-Fi.Stories
+
+// @Z.Sci-Fi.Stories
 UCYCbI_BJMGHqXnosQPigvXA
-//@History-Of-States
+
+// @History-Of-States
 UC85uG2I48mPGuuzpMGBDVAA
-//@States-of-History
+
+// @States-of-History
 UCs5gujsDjh6fblXuJlWG05g
-//@bigstoriesforyou
+
+// @bigstoriesforyou
 UC-ECeIAccxtsOZ3FeCOXYZQ
-//@ChosenRevenge
+
+// @ChosenRevenge
 UCtTBp2fvYVvv9NX-fI_wdZw
-//@HiddenFamilyRevengeStories
+
+// @HiddenFamilyRevengeStories
 UCixEtE28eYPDhodM75FLvqA
-//@RevengeDismantled
+
+// @RevengeDismantled
 UCzyLCmADCRqwOkldQsszDiw
-//@Themaskedbonds
+
+// @Themaskedbonds
 UCTaSlvaJuip8brcE9OOEluA
-//@SilentWarriorsrespect
+
+// @SilentWarriorsrespect
 UChsmPR9LHnYZE6PPz3J797w
-//@HCStories-1012
+
+// @HCStories-1012
 UCS-EImTNcoXX4Tolx8yT--w
-//@TheHumanStoriesChannel
+
+// @TheHumanStoriesChannel
 UCTWMvGQMdeaMSX3k4frBZAA
-//@SheServedYT
+
+// @SheServedYT
 UCqf4eLwpTLkG820XZJUJO9w
-//@@OpenCases247
+
+// @@OpenCases247
 UCT1D11ZaTKJWnxb4SR47dNA
-//@SheForceTales-b2b
+
+// @SheForceTales-b2b
 UCWP5msu0XNm4STvgYm2vCLg
-//@JusticeCue-p6r
+
+// @JusticeCue-p6r
 UC8PHWEo5Y1yBn_u62zZqk_A
-//@TheFinalWatch24
+
+// @TheFinalWatch24
 UCrv8piEKnCgW-GLJ5jLES0g
-//@herveteranstories
+
+// @herveteranstories
 UChMdt4r4IsD4m9u5b5qD4Gw
-//@SecretValorStories
+
+// @SecretValorStories
 UC4SIcOjzoY0_0OrBJbBWOLQ
-//@VeteranTruths-911
+
+// @VeteranTruths-911
 UCvr6vxZ1e9u9MZTv8799A-w
-//@MVPStoriesSG
+
+// @MVPStoriesSG
 UCAvj1mgqQiOzuX4dTPOqstw
