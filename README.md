@@ -1,6 +1,6 @@
 Lists of Youtube channel IDs that are known or suspected of being AI-Slop and/or low-effort content. These lists can be used with browser extensions like Blocktube to hide the offending channels from searches and suggestions. Channels included in the lists have, to varying degrees of scrutiny, been indivudally reviewed and subjectively assessed as being slop. Current lists and number of channels included are organized by topic below:
 
-* [**Military history and stories**](Military.txt) - 750+
+* [**Military history and stories**](Military.txt) - 810+
 * [**Warhammer**](Warhammer.txt) - 70+
 * [**Reviews**](Reviews.txt) - 5
 * [**Geopolitics**](Geopolitics.txt) - 5
@@ -18,7 +18,7 @@ Judgment as being slop is subjective. The following criteria are considered:
 * Limited or no channel content prior to widespread adoption of AI generation on Youtube. (c.a. Q4 2024 or Q1 2025)
 * Bizzare channel pivots. (e.g. channel name and early videos were about arts and crafts but now every video is about WW2 battleships)
 * Identical or extremely similar content to other channels, all uploadeded in a narrow window of time ([Example 1](images/slop1.png), [Example 2](images/slop2.png), [Example 3](images/slop3.png))
-* Factual errors in content, simple spelling errors, etc.
+* Factual errors in content, simple spelling errors, etc.f
 
 Some categories, such as geopolitics, suffer from low effort more than slop AI content. For example, taking the recording of a university lecture and replacing the original video, which may have contained maps and graphs, with completely unrelated stock footage while not attributing where or when the lecture originally took place.
 
