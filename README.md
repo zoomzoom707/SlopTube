@@ -3,6 +3,7 @@ Lists of Youtube channel IDs that are known or suspected of being AI-Slop and/or
 Current tally of the number of channels included in each list:
 * Military history and stories - 150+
 * Warhammer 70+
+* Reviews 5
 
 These lists will likely become incomplete as new slop channels are created daily and it's possible non-slop channels may be listed due to error.
 
