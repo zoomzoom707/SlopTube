@@ -7,7 +7,7 @@ Current tally of the number of channels included in each list:
 
 These lists will likely become incomplete as new slop channels are created daily and it's possible non-slop channels may be listed due to error.
 
-Judgment as being slop is subjective but depends, to varying degree, on the following factors:
+Judgment as being slop is subjective. The following criteria are considered:
 * Heavy usage of clearly AI generated images, video and voice narration.
 * Nonsensical video editing (e.g. showing stock footage of modern airliners while discussing the 1950s airline industry)
 * High levels of content output (e.g. 2+ hour videos uploaded daily or multiple times a day)
