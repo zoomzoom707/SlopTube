@@ -6,7 +6,7 @@ Current tally of the number of channels included in each list:
 * [**Reviews**](Reviews.txt) - 5
 * [**Geopolitics**](Geopolitics.txt) - 5
 
-These lists will likely become incomplete as new slop channels are created daily and it's possible non-slop channels may be listed due to error.
+New slop channels are created daily and these lists are expected to become outdated rather quickly. It's possible non-slop channels may be listed due to error. Effort is taken, for example, to stop channels that are human researched and written, but narrated with AI due to language barriers, from being added to this list.
 
 Judgment as being slop is subjective. The following criteria are considered:
 * Heavy usage of clearly AI generated images, video and voice narration.
