@@ -494,9 +494,6 @@ UCXi_1xFeP3j8zO97akBrF2g
 // Caleb Johnson
 UC7z-yu7iWsFD0uLobGgX3pA
 
-// Story Telling Timothy
-UCCxPjiTatVBKywHJJ_doHMw
-
 // Wars of the Past
 UCFXuldbPwl8Rocj7WHjOkew
 
@@ -565,9 +562,6 @@ UCFWnR-2wg1Csi4QAlcR8IFA
 
 // Revenge My Way
 UCcAKe0u13_QwtkCzQd7prdw
-
-// Military Chronicles 
-UCqhGHoNa1yAcF3RcdXF67uA
 
 // Story Telling Timothy 
 UCCxPjiTatVBKywHJJ_doHMw
@@ -963,9 +957,6 @@ UCET1j20fU5FE9aeHb40B6Fw
 // Ufold Tales 
 UCwGmghnWGkWct4MvwRNKVIw
 
-// Unusual Stories
-UCjvtXS9Mbsl7xQufcrfDHmg
-
 // LUXURY AUTO 01
 UC1GdToGcH3-jwyLielHeYSg
 
@@ -1035,62 +1026,191 @@ UC_mxm86XPSX4LbnioXpNYOw
 // Behind Quiet History
 UCaGOdLWNLPejmiUMXKautjw
 
-//HOA Hellscape
+// HOA Hellscape
 UC__2evpj1g9_cidmTVHPa0w
 
-//True Hero Stories
+// True Hero Stories
 UCIbZ9nTLTEMme6cxKFWmdxg
 
-//TH Stories
+// TH Stories
 UC0OuFPGgUZSBUeayF9_W18A
 
-//Untold Heroes’ Stories
+// Untold Heroes’ Stories
 UCNMAiQEe8d3vHQtA86NYhFA
 
-//Valor Stories
+// Valor Stories
 UCPiQEwYYlKikIJRZ49zdC7w
 
 // Grit and Glory
 UC5qTOXXSaLqHW9-MZS3SF0Q
 
-//Story Raim
+// Story Raim
 UCUdPdAYG80R8E19dFJGuSew
 
-//mary jobf
+// mary jobf
 UCmDAyqsTdNT0c_G5ENW3bYw
 
-//Kindlight Stories
+// Kindlight Stories
 UCud4cSVZ7ykIJP0iygOeD1Q
 
-//Legacy Ignited 
+// Legacy Ignited 
 UC0ltINk7vka4cHxKGYgc46A
 
-//Shadow Thread
+// Shadow Thread
 UCGDf58k7xDRQhcpytfFIogg
 
-//Old Verse Stories
+// Old Verse Stories
 UC5Fds3aLZ7_rYrFuGDNJAiw
 
-//Narrative Story Zone
+// Narrative Story Zone
 UCtVlDao_b6XWPhhu_Zf4xzQ
 
-//Raw Truth Stories
+// Raw Truth Stories
 UCNz_q9dKPe2D4DzUiPJ_Auw
 
-//Hope Stories
+// Hope Stories
 UCJWoMwlm-fySRxXp0iM-PaQ
 
-//Grandma's Book 📖
+// Grandma's Book 📖
 UCN0K8Jrt3xWgPUE4BayX0Mg
 
-//Echo Tales
+// Echo Tales
 UC7_9WZa8YctIHx10uVBC4Pg
 
-//Mr. William Stories
+// Mr. William Stories
 UCJYwBl2bYnzlOuTC7WEhTnQ
 
-//HFY Cryptic Tales
+// HFY Cryptic Tales
 UCQJ-gyH5cDJ7EMCBca3ge5g
+
+// BraveLine
+UCciRNcTaKYYHyL671ehYICg
+
+// QA - Stories
+UC5SOjQXjH8h4tJQwKeTGTEQ
+
+// Black Voices
+UCPFwwyCEEj1X1iUY6bimK4Q
+
+// Jon kidy.
+UCg0jj-vudtdrc9BXZWbYRjg
+
+//  BIGFOOT Andrey
+UC_NQqTbFl8Z8tis01bffrCQ
+
+// Aviation Frontline
+UCY62eYqqji2MmaLJCdx8iKw
+
+// COURAGE TALES
+UC87fQmnXNI37TUOatVKUPCw
+
+// Kindness Corner
+UCIjA0n-DcFtJN42b6EdmQNw
+
+// Real Mission Stories
+UCICQ1_6xYFeKobJwoBvMRFw
+
+// The Kindness Diaries
+UCMi8a_zwRySdZWeuqwZ9Q1A
+
+// Deep Life Tales
+UCtDGbEYX5J1QpYgRTSAnH6w
+
+// HOLLYWOOD MOMENTS
+UCT5iYVi12xZtP1cNuSC3bmw
+
+// Echoes Of Kindness 
+UCPRmiRdWdkBGBuXscLhjkIw
+
+// Stillheart Rising
+UCMGacnoR_Nz_WojXbVdLooA
+
+// Hidden Valor Stories
+UCkGqcLkpahVsCXPuRFhhfLg
+
+// Military And Veteran Stories
+UCJSGsi62Ez56DzC1Q8QMMag
+
+// I LOVE USA
+UCPAmBRNjj8mFUDfzYmNOoIw
+
+//  Talk News
+UCS-YkD35pANBVod6xv_HMGg
+
+// Seeds Of Kindness
+UC4binqRC0E85dW5khxd-fyQ
+
+// Sky Queens
+UCES1mHUfMx-GCq0zHJx062g
+
+// Frontline History
+UCjDx0UTtdqmEsV65Y0Lo6Iw
+
+// Battlefield Stories
+UCEzu0uq9jvinKK3e1L0lMeg
+
+// Grow for Justice
+UC-g4mrFDHiKI-KK5pg7P_xQ
+
+// Black Chronicles
+UCwN86NeNdXoi3P7FkYAiEBQ
+
+// Bold Turns
+UCyAxw0ucLB66DIF0dRrxV6w
+
+// Women of War: Untold
+UC3oP7Tecl1-O2kZlCRN-vnw
+
+// Silent Force Tales
+UCl8eUX0DJR51NC9HndTR3fg
+
+// Sky Warriors
+UCklOZIsyAswx2YLzIKeOr7g
+
+// Historia de los Estados
+UCIBgCsEK-6znE9YIuaLL_1g
+
+// Back Then Stories
+UC8ev001Qip5MStJxyso2JuA
+
+// The Frontline Hauntings"
+UC4rgh_YV_7cDpphmj8ir3Iw
+
+// Real Valor Story
+UCuWjAPDdUirs2iYJGxzNXaw
+
+// Tales of Honor
+UCr4uYSdFACCC0TTrWIKlYwQ
+
+// Dignité cachée
+UCrEM5gNmSGWIqmk0KvdmJVA
+
+// The Lost Chapters
+UCP2sis9vfMFQy_i6lTG_8VA
+
+// Black Voices Speak
+UC1pshUSBU-qGMn5dHfFlnuA
+
+// The Real Life Stories YT
+UC3UA_Wpewq5-Yrdy8ogaLiQ
+
+// Manifest with Neville
+UC7Gk5GHdk97VqB81YMdTu3Q
+
+// SW Dignity Stories
+UCbJYvmJlEU7B2sYanNgUXlw
+
+// Tim' Stories
+UC_vZf3sK0_IMvqjNM4H-7CQ
+
+// The Heartfelt Story
+UCxESpN9tAnCHoxbf-tK2J1A
+
+// Elite Story
+UCjxNmEjR47gDuE7nwQY8emw
+
+// Life Hopes
+UCFoyqBTYfLxmLuIp4D1Ml_w
 
 
 // MILITARY END
