@@ -4,6 +4,7 @@ Current tally of the number of channels included in each list:
 * [**Military history and stories**](Military.txt) - 400+
 * [**Warhammer**](Warhammer.txt) - 70+
 * [**Reviews**](Reviews.txt) - 5
+* [**Geopolitics**](Geopolitics.txt) - 5
 
 These lists will likely become incomplete as new slop channels are created daily and it's possible non-slop channels may be listed due to error.
 
@@ -14,6 +15,9 @@ Judgment as being slop is subjective. The following criteria are considered:
 * Highly repetitive, formulaic content (e.g. every 2nd video follows "X couldn't believe it when Y happened!")
 * Declaration that the content is AI generated
 * Absence of credible biographic information of the content creator. (e.g. someone produces 2+ hours of content daily but is only known as WW2Stories7)
+
+In the case of videos like geopolitics, slop is less often AI generation and more low effort and theft. As an example, channels will take a recording from a lecture or presentation on a topic, replace the original video, which often includes maps or graphs, with completely unrelated stock footage while not attributing when or where the talk originally took place.
+
 
 Channels that represent edge cases or challenge categorization exist. These are currently not included, though they are very rare. In the 150 military related channels included in the list, there were only 2-3 channels that were debatable and subsequently not included.  
 
