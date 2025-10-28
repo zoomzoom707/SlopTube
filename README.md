@@ -1,7 +1,7 @@
 Lists of Youtube channel IDs that are known or suspected of being AI-Slop and/or low-effort content. These lists can be used with browser extensions like Blocktube to hide them while browsing Youtube. The lists are created by subjective, individual, manual review and are organized by topic (i.e. military history, science-fiction, etc.).
 
 Current tally of the number of channels included in each list:
-* [**Military history and stories**](Military.txt) - 450+
+* [**Military history and stories**](Military.txt) - 480+
 * [**Warhammer**](Warhammer.txt) - 70+
 * [**Reviews**](Reviews.txt) - 5
 * [**Geopolitics**](Geopolitics.txt) - 5
