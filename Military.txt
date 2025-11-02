@@ -4393,9 +4393,6 @@ UCcaNXLK8uBFy4Ilzf_CkXFw
 // DEEPDOCS
 UClrHc89qKg1s0EIgzjwZLXA
 
-// Flicknet
-UCQ89S9OtC5GBNjXYB3CXW_w
-
 // WW2 Legacy
 UC6S3-1q5sk7uYUf6_sJ_dyw
 
@@ -4540,18 +4537,458 @@ UC-zrcYEdYJo9Hm5L8lLFRhQ
 // WW2 inside
 UCe2UVy7wbHmatU7IwUEMkfQ
 
+// Flicknet
+UCQ89S9OtC5GBNjXYB3CXW_w
+
+// Helmet Cam History
+UCAdECX3hAlOs4uwS0jVRHvw
+
+// WWII Notes
+UC10tPVxWdbxbQAXzZ72MNEg
+
+// Battle Intel
+UC0xp25-AnkX5yhMVcu5EEuQ
+
+// Leagcy of pain
+UCcJ_oep0Vjt73a1OgrKVofw
+
+// Ancient History Show
+UCBGJOJ05BEhBmA6xImfGXEQ
+
+// WW2 Doctrine
+UCU5k5kswklaG1g0nRNB7SSQ
+
+// WW2: Frontline Tales
+UCmNP-W5qUJFBqUscBADmwlw
+
+// Modern Warfare MWF
+UCOFIgu2gTcMigfJo-V8NB3A
+
+// WW2 INSANE
+UCKGiiyKgcHsuP084z7MyDtQ
+
+// The Soldier Story
+UCaBX8q9hwYSix-S7hisHTAg
+
+// The great war chronicles
+UCRKoGJvG7xDLFfjNsg5jkUw
+
+// Beyond History
+UCngCxL6kE3PCD_cixhVJ6-A
+
+// War Two Files
+UCU6fJEbclwdv6UEmvN49gyQ
+
+// Wings of History
+UCZmNgA8kwuNpQEDNjnHnixg
+
+// WW2 Classified
+UCv-cZqhQzuyC40XUInQGgRg
+
+// Real WW2 Stories
+UCi4BaiQL0wbT1Zeo_hJq4nQ
+
+// WW II Tales
+UC0pbZBcR89Jz92lvmpz6U4w
+
+// WW Vanguard
+UCMfWmIjpdxQ4Cp11oeKIlhg
+
+// War Echoes
+UCamTt21f_BOBpKYCE2KftTQ
+
+// WW2 Untold Echoes
+UCkXhYHxDXd_YkK07X6Fgejg
+
+// WW2 Uncovered
+UC79Gpq4zjVXZp50yq7VOxoA
+
+// Tale House
+UCo7VLkaeFwnNHrFypVADQ2A
+
+// Decoded History
+UCds2M10OOBXwx3S31LAaWMA
+
+// WW2 INSIGHTS
+UCphaJUppgYC5G6nQXfu6YDQ
+
+// Echoes of War
+UCAkCSHczuuKg0bFXw0ixn9g
+
+// World War 1
+UCYX9wN37JyN0mdo4L87FnJA
+
+// Business Narratives
+UC0BPLhvw4tnMF3mn-TrNH3Q
+
+// The Soldier’s Stories
+UCvhrEmF3O2t0wbQ21KtmNAg
+
+// WW2 Dispatches
+UCI6holZ0hJbMIWHgRGw3INg
+
+// WW2 Secrets Uncovered
+UCqVUu8vlZeGPAimG-sR9UYA
+
+// GeoFactr
+UCxqZAmEh4DskwaPVsRWi7IA
+
+// World War II
+UCAoamV3P3ojWk6pYwGuC3OA
+
+// RPG 2 Tales
+UCkRjw_wePnOT8gV02EFZXyg
+
+// United History Book 
+UC1g-2T2wgXcniaDI8CSxF9g
+
+// WW2 RelicZone
+UCagmZCgA6gwqHcvyuzMvROQ
+
+// Tales of World WWII
+UCI8dYsfQla4vyWWm1Lka29Q
+
+// WW2 Scribe
+UCoJedouHHapnUm018pCFXSw
+
+// Historical Perspective
+UCjgpHarY3nL7pvZd4ewzSvg
+
+// Weapons Unlocked
+UC6UR0BTkFMZa5uRRVsv87JA
+
+// Warrior Chronicles
+UCfitJRnQqOi4Zx91-Akb6YA
+
+// Warpath
+UC5VOAMJ5ygdKnAXtOETjFEw
+
+// WW2 Memories
+UC6VB40AgpTa2BSBYCLU5Z8w
+
+// WW2 Chronicles
+UCIIQGkJCQFFtvuzYHCJ5rUQ
+
+// Warcrafter
+UCicZ-eWVCJ6U79aerhKANZA
+
+// CrossSteel
+UCP_Z6Xrnuo2yGtLIlRYQ_jQ
+
+// ТОЧКА
+UCxCpTBsfVTx-iPgkZkv_FAA
+
+// WW2 Voices
+UCbDna0kpGnYhxHR3fTC9ySg
+
+// WW2 Untold Stories 
+UCkJ1C8Q3zQCPCISvWqfzktw
+
+// Gary Newsroom
+UC2KV-tQwd3qsWUkFKfWyBbA
+
+// Hidden WW2
+UCZpduU1bgE5zAFozHTz2MXw
+
+// Silent Victories
+UCSmYffda29EaMbGnXweW8Jg
+
+// Battle Reels
+UCJcRt5HiXXPb51_yTr_cWYg
+
+// WWII Voices
+UC0DClm7mFuL3HhNfFD6Ix1A
+
+// Chronicles of War
+UCHm3L8I47twAQl5EEWwxqPQ
+
+// WW2 Fold
+UCZ9R1QNOlWeydKEO_FGdEVA
+
+// WW2 Code
+UCYEYddoxBrq80M-VzG-d8Jw
+
+// WW2 Truths
+UCmki6LXwzCh6xLecaK6HSRQ
+
+// Zesty Pixels
+UC8dF3k-N3Eir3IFx_HpvItQ
+
+// Celeb Toxic
+UCalHNo1qSUqyc7vV83T3fdw
+
+// SoulScript Stories
+UCHLKrFadhXsuXkfw6y5cAEQ
+
+// dark talk 
+UCHaEvR-Tdpe6EcZvcwDqkuQ
+
+// Warfront Memories
+UCDNkCmgH8y2qk3rkTKOQMcg
+
+// Battlefield Medicine
+UCndRK5AAHtUNeGly-7Xlccw
+
+// WWII Narratives
+UClyPrPLp6SsS-I9IDQmFyPQ
+
+// 🌌 Eastern Shadows: WWII Tales
+UC7BIJMJMn5QlOf_Q4Y8U1VQ
+
+// WW2 Documentary
+UCJTm8V_8UPK4ed_-Tjhouig
+
+// Moonshot Archives
+UCvAVuZOB0aJn4l26SAyl7YA
+
+// Voices from WW2
+UCl78K0PNPPAK3wdfFF4pqrA
+
+// Reality Of WW2
+UCjihXdb5OFRMJ2SomoGTUjg
+
+// Warier Tales
+UCdSjhZpZgEsqA7ZzMCbvmIw
+
+// The Brutal Wars
+UC3VxdLrkTR4zgTBSF8_eX7w
+
+// karenrams
+UCa6ieUP_lXM4kye2dNlOCkA
+
+// Facto Dream 
+UCKMcZGm0JnPme7SyIS9SfQw
+
+// Historys Anomaly24
+UCUxw42mPXhK2EVds_Sarh3A
+
+// WW2 Podcast
+UCtunBDhrNr_-URenJ51940A
+
+// Hidden Front: WWII Stories
+UCqDZZdf2q083uXO3ndKpERA
+
+// Life Struggles
+UCcXes4HHYX0SB_ZEcG3TQaQ
+
+// Battleground Chronicles
+UCgMrn-F8WqAQheafhtWmjog
+
+// WW2 History Vault
+UC-jikRPTXI5s1xNsm-5dlGw
+
+// celebrates_info
+UC-tQz5-KaJVZz70vsI66lCg
+
+// WW2 Narrative Archive
+UCF3BReBQTW1prEXkbVQcWDw
+
+// WW2 Chronicles
+UC07hxL2YA-1Td-ypldFnVCA
+
+// WW2 Uncovered
+UCNCJoqjqYyAxS3MmA2z-TpQ
+
+// Presidential History Channel
+UCRD3XFZ5Tic6jkBPcPlWcqA
+
+// WW2 Files
+UCtKZ4LO7TB2l-mSreWLAqvw
+
+// Kg voice 
+UC3hylAD85fJoFkHGHTumXNQ
+
+// Skies of Fire: WW2 Stories
+UCM-dJ1jDTFp1p-oBX76sVsg
+
+// WW2 Untold Archive 
+UCWUonxSvSCXSYBx03AgLx3Q
+
+// WW2 Tales Vault
+UCbYYGmv6jP2tlmqk9o1wrdw
+
+// The War Diaries
+UCF5AOhTHBBlF1TjKynqp1MQ
+
+// Dark Domain
+UCMM3Ev0FjLBGF1HQ-uUiGcg
+
+// Tedious History
+UCwocCQqwSgd9BbVJEgAIgZg
+
+// ODWarTales
+UC2FM9tVQjW3JM9WKgByerWQ
+
+// WW2 Vids
+UCNWyOvoGkbIhTcsdxrRrKNA
+
+// Cold War Tales
+UCYuMqWx6O2z0uR3UDkBd13Q
+
+// The Noise Room
+UC11xsdOKZNbhONejYR1kEIA
+
+// jordan bell
+UCIiK_bvgE3Xxkxyzok84y6A
+
+// Asmir
+UCagkAxRUsF2B7awkzqgy7Ew
+
+// Shadow of war
+UC5G1UDNTUzmf5Xg__d_qIKg
+
+// WW2 Talkz
+UC3EUhdZdNiYMh9HP9PpttxQ
+
+// Simion Tomiţa
+UCvN_8CUQs_vPUpKNdAQUr_Q
+
+// WWII Vault
+UCi_CukqLlcninkLTTyhWh4A
+
+// The World History
+UCdCJ6wxeyGfy8HrIuq2sG6Q
+
+// Echoes of WWII
+UCxJL0d6pJZHUvOa88ukmJYw
+
+// ww2 Reports
+UCGeuBjsvvA4NttDNFPO6XoA
+
+// Star Fun Tv
+UCZSWvP23bzeZvmJ3na3hD2g
+
+// OLD WAR
+UCm5WW0HR9qAXzSNqj0vTvhg
+
+// WW2 Tune
+UCsk53u7AUXRXDjL89-KnXoQ
+
+// WW2 Story Time
+UCUMqGJ13I1eroNfyqlvU8JA
+
+// Rare History Vault
+UC4rVNQtU8zhjjbJB4LBsQCQ
+
+// WW2 Stories
+UCegkXcdSa4uNUFcGUCZQ3ZQ
+
+// The WW2 Tales
+UCjUvLKuw_Si9qjdxkxegcow
+
+// The Iron Front
+UCSpO8_tqbz3dtQtdbuF8Vjw
+
+// Battle History & Alternate History
+UCZWaU5QhVibSz07bqaNmj5Q
+
+// The WW2 Place
+UCgn-lzrSRjeoGnAz_G8-IJQ
+
+// KM History Vault
+UC4OSjt1rLkiEI-EyGF9OI7g
+
+// WORLD WAR TALES
+UCp2zRCWNYhifL1FGH8Y5Msg
+
+// Tales From WWII
+UC51DEkxfNoyWjMwLHZvigtQ
+
+// soldier's story
+UC0LcGGq9ugzSW_nZoSNNSkg
+
+// Captivating WWII Tales
+UCHGwkUy24Sbu7CU0duKqQkA
+
+// Modern Mindshift
+UCgJKJe9bW68GehTKKJ14hWw
+
+// Jet Force Military
+UCjnK5l0KUvK_nhYQy0sBl_g
+
+// Escape from the Frontlines
+UCSKEo_IKoZaTKe9qs_ydljA
+
+// WW2 Untold Stories
+UCRQu329JwdUxCnuOX3If4Zw
+
+// WW2 Stories
+UC29KHgr0vqkwDwPKPP68XhA
+
+// Panzer Chronicles
+UCqAUAaCw2XEOj0rpTFNoNHw
+
+// Historia Fotografiada
+UC7IFS7ihwjyZWLHGxRkK1og
+
+// WW2 Memoirs
+UCJH2lfpQ4LlZ--GZJOHCXig
+
+// Dark Truths
+UCvgyEtTdx_BgP7Z2ixShvSQ
+
+// WWII Uncovered
+UCsOBKDgDnuMFAijJDhCsX0w
+
+// WWII Secrets Tales
+UCae59B_9F8nw88NQt8jAPaw
+
+// Voix de l'Écriture
+UC6EDrGiJ_TIldLCUgd3WOag
+
+// WW2 Talks
+UCIPMIQxRc_UvkyD11e2a8TQ
+
+// Historical Stories
+UC49maEr0yjP_hps9SrDbBHg
+
+// Nhịp Sống Đường Phố
+UCHGMB6rtlzGiRSLDMGQwjFg
+
+// World War II Documents
+UCgL8OBSDuYQx6NFfhMYpGkg
+
+// Valor Studios Stories
+UCuf45INLvN6ox9xfF4sq3Fg
+
+// WW2 Diary
+UCKC3I-402uyGY7EfVVqWsyg
+
+// Frontline Diaries
+UC5v_gc60Qh-5jg-tdY5q9Gw
+
+// War Stories Archive
+UC96dZkOCwjfKQM7U_kMlXCw
+
+// Forgotten War Stories
+UCVTFMeu5kD5mN0R6dzFrBuw
+
+// WW2 Untold Secrets
+UC6knw1Fc_Cv6yrDoy2q5Gmg
+
+// WWII Time Machine
+UCOO2qxsO3yYEMbIjao-fXxQ
+
+// Echoes of WW2
+UCtJbzDxPPW4lgfMP7WFcSxw
+
+// Wartime Documentaries
+UC7jBDWBLr3W-_htVVsFsOhQ
+
+// Echoes of 1945
+UCC4LWswvLVQof5OGYZOlbLQ
+
+// Hidden Battlefields
+UC1XSGTDRYvXXBl02F_qH-lA
+
+// Forgotten Soldiers
+UCvtHHdKvgwk-Ia1R0ptlgwQ
+
+// WW2 Forgotten Soldiers
+UCEdcF9ihV-6j9ITqJdy_2RQ
 
 
-
-
-
-
-
-
-
-
-
-
+// MILITARY END
 
 
 
