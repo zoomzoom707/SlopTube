@@ -1,3 +1,8 @@
+*Update*
+Youtube removed the search by upload date in early 2026. This served as the primary method of finding slop channels; e.g. search repetitive topics common in AI slop like "German Generals Laughed" and just start adding channels to the list. This is no longer possible. Until such a time there is a better way to search for AI content, I won't be updating these lits any further.
+
+
+
 Lists of Youtube channel IDs that are known or suspected of being AI-Slop and/or low-effort content. These lists can be used with browser extensions like Blocktube to hide the offending channels from searches and suggestions. Channels included in the lists have, to varying degrees of scrutiny, been indivudally reviewed and subjectively assessed as being slop. Current lists and number of channels included are organized by topic below:
 
 * [**Military history and stories**](Military.txt) - 1,840+
