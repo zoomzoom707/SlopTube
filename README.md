@@ -1,4 +1,4 @@
-*Update*
+**Update: **
 Youtube removed the search by upload date in early 2026. This served as the primary method of finding slop channels; e.g. search repetitive topics common in AI slop like "German Generals Laughed" and just start adding channels to the list. This is no longer possible. Until such a time there is a better way to search for AI content, I won't be updating these lits any further.
 
 
